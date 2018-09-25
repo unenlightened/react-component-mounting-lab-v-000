@@ -12,6 +12,10 @@ class Timer extends Component {
 
   }
 
+  componentWillUnmount() {
+
+  }
+
 
 
 
